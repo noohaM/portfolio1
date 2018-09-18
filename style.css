@@ -82,6 +82,13 @@ top: 15%;
     cursor: pointer;
 }
 
+.avatars a:hover
+{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
 .ww
 {
    margin-top: 8%;
@@ -276,6 +283,8 @@ margin:5% 0% 5% 2%;
 {
     padding-left: 10%;
 }
+
+
 
 
 .draw
