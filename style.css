@@ -332,4 +332,33 @@ margin:5% 0% 5% 2%;
   margin-bottom: 12%;
 
 }
+
+.map
+{
+    padding-left: 0px;
+}
+
+.location
+{
+    font-size: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.location height h2
+{
+    font-size: 15px;
+}
+
+.touch
+{
+   height: 20px;
+
+}
+
+.social
+{
+    padding-left: 12%;
+}
+
  }
